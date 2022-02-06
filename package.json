@@ -1,0 +1,24 @@
+{
+  "name": "terminal",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlenaPatlata/terminal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlenaPatlata/terminal/issues"
+  },
+  "homepage": "https://github.com/OlenaPatlata/terminal#readme",
+  "dependencies": {
+    "joi": "^17.6.0",
+    "shortid": "^2.2.16"
+  }
+}
